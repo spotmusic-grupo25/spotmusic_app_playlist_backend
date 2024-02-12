@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4d828220-0ad6-4eb4-b544-e0008d81d539": {
+      "ProjectGuid": "4d828220-0ad6-4eb4-b544-e0008d81d539",
+      "DisplayName": "API.Playlist.Application",
+      "ColorIndex": 0
+    },
+    "39dd89ab-a906-4096-bcb2-9b2d15bca3ee": {
+      "ProjectGuid": "39dd89ab-a906-4096-bcb2-9b2d15bca3ee",
+      "DisplayName": "API.Playlist.CrossCutting",
+      "ColorIndex": 1
+    },
+    "ed747810-9564-477e-8c90-8f7fefe88da9": {
+      "ProjectGuid": "ed747810-9564-477e-8c90-8f7fefe88da9",
+      "DisplayName": "API.Playlist.Data",
+      "ColorIndex": 2
+    },
+    "b0981280-86b2-4db4-bdf9-adc8908b7f4e": {
+      "ProjectGuid": "b0981280-86b2-4db4-bdf9-adc8908b7f4e",
+      "DisplayName": "API.Playlist.Domain",
+      "ColorIndex": 3
+    },
+    "d38833a0-52e2-4494-9415-7d36ecb6447b": {
+      "ProjectGuid": "d38833a0-52e2-4494-9415-7d36ecb6447b",
+      "DisplayName": "API.Playlist.Service",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "1a50edb8-47f7-4dec-9c94-ca675abffc9f": {
+      "ProjectGuid": "1a50edb8-47f7-4dec-9c94-ca675abffc9f",
+      "DisplayName": "API.Playlist.CrossCutting",
+      "ColorIndex": 5
+    },
+    "c5b595eb-c34b-43db-8d29-8c73e77dd78b": {
+      "ProjectGuid": "c5b595eb-c34b-43db-8d29-8c73e77dd78b",
+      "DisplayName": "API.Playlist.Application",
+      "ColorIndex": 6
+    },
+    "388c4282-956b-4fea-8452-b1aeedd062ae": {
+      "ProjectGuid": "388c4282-956b-4fea-8452-b1aeedd062ae",
+      "DisplayName": "API.Playlist.Data",
+      "ColorIndex": 7
+    },
+    "e37cea57-8975-4187-951b-f87446f9b61e": {
+      "ProjectGuid": "e37cea57-8975-4187-951b-f87446f9b61e",
+      "DisplayName": "API.Playlist.Domain",
+      "ColorIndex": 8
+    },
+    "aea50239-7a93-4413-963d-58dcfac2bcbc": {
+      "ProjectGuid": "aea50239-7a93-4413-963d-58dcfac2bcbc",
+      "DisplayName": "API.Playlist.Service",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}
